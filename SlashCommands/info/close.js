@@ -1,5 +1,4 @@
 const { Client, CommandInteraction, MessageActionRow, MessageSelectMenu, MessageEmbed } = require("discord.js");
-const db = require('quick.db');
 
 
 
