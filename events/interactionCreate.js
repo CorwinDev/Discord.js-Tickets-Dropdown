@@ -3,7 +3,7 @@ const ordercat = "918221810598838312"
 const shopteam = "918761808515432499"
 const employee = "918761785983655976"
 const { Permissions, MessageButton, MessageActionRow, MessageEmbed } = require("discord.js")
-var db = require('quick.db')
+
 
 client.on("interactionCreate", async (interaction) => {
     // Slash Command Handling
